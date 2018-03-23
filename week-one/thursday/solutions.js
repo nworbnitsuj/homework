@@ -25,3 +25,11 @@
 //   });
 // }
 // console.log(sumDigits(42));
+
+// Pythagoras
+//
+// const calculateSide = (sideA, sideB) => {
+//   return Math.pow(sideA, 2) + Math.pow(sideB, 2);
+// }
+//
+// console.log(calculateSide(8, 6));
