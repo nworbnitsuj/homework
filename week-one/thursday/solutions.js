@@ -3,3 +3,16 @@
 //
 // Within a function, what is the difference between return and console.log?
 // The return statement ends a function's execution and specifies a value to be returned to the function caller, while console.log prints the value to the console.
+
+//Palindrome
+
+// const string1 = ('Radar');
+// const string2 = ('Borscht')
+//
+// const checkPalindrome = (str) => {
+//   let string == str.toLowerCase();
+//   return string === string.split('').reverse().join('');
+// }
+//
+// console.log(checkPalindrome(string1));
+// console.log(checkPalindrome(string2));
