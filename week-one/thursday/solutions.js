@@ -16,3 +16,12 @@
 //
 // console.log(checkPalindrome(string1));
 // console.log(checkPalindrome(string2));
+
+// // Digit Sum
+//
+// const sumDigits = (num) => {
+//   return num.toString().split('').reduce(function (a, b) {
+//     return a + b;
+//   });
+// }
+// console.log(sumDigits(42));
