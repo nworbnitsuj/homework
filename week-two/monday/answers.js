@@ -8,3 +8,15 @@
 4. Array, let studentNames = ["Justin", "VP", "Spencer"]
 5. Object, let students = {{name: "Justin", location: "Austin"}{name: "VP", location: "Austin"}{name: "Spencer", location: "Austin"}}
 6. Object, let students = {{name: "Justin", location: "Austin" favMovie: "Casino"}{name: "Spencer", location: "Austin", favMovie: "Good Fellas"}}
+
+// Take it Easy
+1. let rainbow = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
+2. console.log(rainbow[4]);
+3.  let thisGuy = {
+    name: "Justin",
+    favfood: "Lebanese",
+    hobby: "poker",
+    currentCity: "Austin",
+    datatype: "objects"
+}
+4. console.log(thisGuy["hobby"]);
