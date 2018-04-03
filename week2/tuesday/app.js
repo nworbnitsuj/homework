@@ -25,5 +25,18 @@ const playersForm = document.getElementById("blogSubmission");
     e.preventDefault();
     let newPost = document.getElementById("new-Post").value;
 
-    console.log(newPost)
-  });
+    let welcome = document.getElementById('list')
+      welcomeMessage = " "
+      list.innerHTML += welcomeMessage
+    });
+
+//Commented out console.log to try DOM manipulation
+  //   console.log(newPost)
+  // });
+
+
+
+  // let welcome = document.getElementById('welcome')
+  //     welcomeMessage = " " + player1Name + " and " + player2Name + "!"
+  //     welcome.innerHTML += welcomeMessage
+  //   });
